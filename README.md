@@ -11,6 +11,8 @@ Here is a list (top-tier) of recommended journals and conferences in the field o
 - Journals: TASLP, TACL (CAAI-B), TKDE
 - Conferences: ACL, EMNLP, NAACL (CAAI-B), SIGKDD, SIGMOD, ICDE, SIGIR, WWW
 
+**Note**: For NLP research, TACL and NAACL are often considered the top journal and conference
+
 ### CV-oriented Affective Computing
 - Journals: TIP, IJCV, TPAMI
 - Conferences: ECCV, CVPR, ICCV
@@ -29,42 +31,20 @@ Although there are many journals and conferences to choose from in the field of 
 
 Additionally, there are researchers focusing on affective computing based on physiological signals. 
 
-### Physiological Signal Affective Computing
+### Physiological Signal-oriented Affective Computing
 Journals and conferences are the same as the general field, such as TNNLS, TYCB, TOIS, SCIS, TOCHI, IJHCS, AAAI, IJCAI, CHI. For multimodal physiological signals, consider TMM, Information Fusion, ACM MM as well.
 
 ## Papers in Affective Computing
 Affective computing is a diverse research field that encompasses a broad range of tasks. This material primarily covers the following core tasks:
 
-- Sentiment Analysis
-- Aspect-Based Sentiment Analysis
-- Emotion Recognition in Conversation
-- Multi-Label Emotion Recognition
-- Emotion-Cause Pair Extraction
-- Empathetic Response Generation
-- Emotion Support Conversation
-- Speech Emotion Recognition
-- Facial Expression Recognition
-- Facial Expression Generation
-- Emotional Image Content Generation
-
-### Sentiment Analysis
-
-### Aspect-Based Sentiment Analysis
-
-### Emotion Recognition in Conversation
-
-### Multi-Label Emotion Recognition
-
-### Emotion-Cause Pair Extraction
-
-### Empathetic Response Generation
-
-### Emotion Support Conversation
-
-### Speech Emotion Recognition
-
-### Facial Expression Recognition
-
-### Facial Expression Generation
-
-### Emotional Image Content Generation
+- [Sentiment Analysis](SA.md)
+- [Aspect-Based Sentiment Analysis](ABSA.md)
+- [Emotion Recognition in Conversation](ERC.md)
+- [Multi-Label Emotion Recognition](MLER.md)
+- [Emotion-Cause Pair Extraction](ECPE.md)
+- [Empathetic Response Generation](ERG.md)
+- [Emotion Support Conversation](ESC.md)
+- [Speech Emotion Recognition](SER.md)
+- [Facial Expression Recognition](FER.md)
+- [Facial Expression Generation](FEG.md)
+- [Emotional Image Content Generation](EICG.md)
