@@ -1,4 +1,4 @@
-# Papers in Emotion Support Conversation
+# Papers in Emotional Support Conversation
 
 - Weixiang Zhao, Yanyan Zhao, Shilong Wang, Bing Qin - TransESC: Smoothing Emotional Support Conversation via Turn-Level State Transition - Findings of the Association for Computational Linguistics: ACL 2023, 2023
 
