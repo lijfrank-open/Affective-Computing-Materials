@@ -19,7 +19,7 @@ Emotion Recognition in Conversation - Findings of the Association for Computatio
 
 - Zhenyu Yang, Xiaoyang Li, Yuhu Cheng, Tong Zhang, Xuesong Wang - Emotion Recognition in Conversation Based on a Dynamic Complementary Graph Convolutional Network - IEEE Transactions on Affective Computing, 2024
 
-- Simin Hong, Jun Sun, Taihao Li - DetectiveNN: Imitating Human Emotional Reasoning with a Recall-Detect-Predict Framework for Emotion Recognition in Conversations - Findings of the Association for Computational Linguistics: EMNLP, 2024
+- Simin Hong, Jun Sun, Taihao Li - DetectiveNN: Imitating Human Emotional Reasoning with a Recall-Detect-Predict Framework for Emotion Recognition in Conversations - Findings of the Association for Computational Linguistics: EMNLP 2024
 
 - Jiang Li, Xiaoping Wang, Yingjian Liu, Zhigang Zeng - CFN-ESA: A Cross-Modal Fusion Network With Emotion-Shift Awareness for Dialogue Emotion Recognition - IEEE Transactions on Affective Computing, 2024
 
@@ -94,7 +94,7 @@ Emotion Recognition in Conversations - Findings of the Association for Computati
 
 - Songlong Xing, Sijie Mai, Haifeng Hu - Adapted Dynamic Memory Network for Emotion Recognition in Conversation - IEEE Transactions on Affective Computing, 2020
 
-- Deepanway Ghosal, Navonil Majumder, Alexander Gelbukh, Rada Mihalcea, Soujanya Poria - COSMIC: COmmonSense knowledge for eMotion Identification in Conversations - Findings of the Association for Computational Linguistics: EMNLP 2020, 2020
+- Deepanway Ghosal, Navonil Majumder, Alexander Gelbukh, Rada Mihalcea, Soujanya Poria - COSMIC: COmmonSense knowledge for eMotion Identification in Conversations - Findings of the Association for Computational Linguistics: EMNLP 2020
 
 - Aman Shenoy, Ashish Sardana - Multilogue-Net: A Context-Aware RNN for Multi-modal Emotion Detection and Sentiment Analysis in Conversation - Second Grand-Challenge and Workshop on Multimodal Language (Challenge-HML), 2020
 

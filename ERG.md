@@ -10,6 +10,6 @@
 
 - Qintong Li, Piji Li, Zhaochun Ren, Pengjie Ren, Zhumin Chen - Knowledge Bridging for Empathetic Dialogue Generation - Proceedings of the AAAI Conference on Artificial Intelligence, 2022
 
-- Chujie Zheng, Yong Liu, Wei Chen, Yongcai Leng, Minlie Huang - CoMAE:AMulti-factor Hierarchical Framework for Empathetic Response Generation - Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, 2021
+- Chujie Zheng, Yong Liu, Wei Chen, Yongcai Leng, Minlie Huang - CoMAE:AMulti-factor Hierarchical Framework for Empathetic Response Generation - Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021
 
 - Navonil Majumder, Pengfei Hong, Shanshan Peng, Jiankun Lu, Deepanway Ghosal, Alexander Gelbukh, Rada Mihalcea, Soujanya Poria - MIME: MIMicking Emotions for Empathetic Response Generation - Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020
