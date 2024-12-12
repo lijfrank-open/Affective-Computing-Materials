@@ -67,6 +67,7 @@ Note: For multimodal research, journals and conferences in NLP and CV can also b
 - Conference: ECAI, AISTATS, IUI
 - Journal: TOMM
 - Conference: ICME
+
 Note: For multimodal physiological signals, TOMM, ICME can also be considered.
 
 ## Paper in Affective Computing
