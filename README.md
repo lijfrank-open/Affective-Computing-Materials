@@ -68,7 +68,7 @@ Note: For multimodal research, journals and conferences in NLP and CV can also b
 - Journal: TOMM
 - Conference: ICME
 
-Note: For multimodal physiological signals, TOMM, ICME can also be considered.
+Note: For multimodal physiological signals, TOMM and ICME can also be considered.
 
 ## Paper in Affective Computing
 Affective computing is a diverse research field that encompasses a broad range of tasks. This repository primarily covers the following core tasks:
