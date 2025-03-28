@@ -1,4 +1,5 @@
-# Papers in Emotion Recognition in Conversation
+# Papers in Conversational Affect Detection
+including emotion recognition in conversation (ERC) and sentiment analysis in conversation (SAC).
 
 - Zijian Yi, Ziming Zhao, Zhishu Shen, Tiehua Zhang - Multimodal Fusion via Hypergraph Autoencoder and Contrastive Learning for Emotion Recognition in Conversation - Proceedings of the 32nd ACM International Conference on Multimedia, 2024
 

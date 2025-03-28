@@ -9,10 +9,10 @@ Here is a list (top-tier) of recommended journals and conferences in the field o
 - Conference: ACII, a top-tier conference, but with limited recognition
 
 ### NLP-oriented Affective Computing
-- Journal: TASLP, TACL (CAAI-B)
+- Journal: TASLP, TACL (CAAI-B), CL (CAAI-B)
 - Conference: ACL, EMNLP, NAACL (CAAI-B), SIGKDD, SIGIR, WWW
 
-Note: For NLP research, TACL and NAACL are often considered the top-tier journal and conference.
+Note: For NLP research, TACL, CL, and NAACL are often considered the top-tier journal and conference.
 
 ### CV-oriented Affective Computing
 - Journal: TIP, IJCV, TPAMI
@@ -43,7 +43,7 @@ Note: For physiological signal research, journals and conferences are the same a
 Of course, in addition to top-tier journals and conferences, there are also other journals and conferences to consider.
 
 ### NLP-oriented Affective Computing
-- Journal: CL, Speech Communication, TALLIP, TKDD, IPM, KAIS, KBS, TWEB
+- Journal: Speech Communication, TALLIP, TKDD, IPM, KAIS, KBS, TWEB
 - Conference: COLING, INTERSPEECH, ICASSP, CIKM, ICDM, ECMLPKDD
 
 ### CV-oriented Affective Computing
@@ -61,7 +61,7 @@ Note: For multimodal research, journals and conferences in NLP and CV can also b
 - Conference: ECAI, AISTATS, IUI
 
 ### Physiological Signal-oriented Affective Computing
-- Journal: Brain, Behavior, and Immunity (YBRBI), TNSRE, BBS
+- Journal: YBRBI, TNSRE, BBS
 - Conference: BIBM, EMBC, CogSci
 - Journal: FCS, TAI, JAIR, TIST, IJNS, NEUNET, NEUCOM, HCI, THMS, IwC, IJHCI
 - Conference: ECAI, AISTATS, IUI
@@ -75,7 +75,7 @@ Affective computing is a diverse research field that encompasses a broad range o
 
 - [Sentiment Analysis](SA.md)
 - [Aspect-Based Sentiment Analysis](ABSA.md)
-- [Emotion Recognition in Conversation](ERC.md)
+- [Conversational Affect Detection (ERC&SAC)](CAD.md)
 - [Multi-Label Emotion Recognition](MLER.md)
 - [Emotion-Cause Pair Extraction](ECPE.md)
 - [Empathetic Response Generation](ERG.md)
